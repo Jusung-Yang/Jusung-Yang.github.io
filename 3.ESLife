@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JUNIVERSE</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1><a href="index.Jniv">Welcome to JUNIVERSE</a></h1>
+    Hello, <strong>JUNIVERSE</strong> is the site made to <strong>archive my life</strong> of 2021. 
+    <h2>Information About Me</h2>
+    <p>Name : Jusung Yang
+        Age : 20
+    <br> Birth : 1st, Jan, 2001.
+    <br> junior grade in <a href="https://mportal.cau.ac.kr/main.do" target="_blank" title="CAU Portal Site">CAU</a>.
+    <br> Learning Programming, History.
+    </p>
+    <ul>
+        <h2><a href="1.DLife">Daily life</a></h2>
+    </ul>
+    <ol>
+        <h2><a href="2.ULife">University life</a></h2>
+    <img src="WHRS.jpg" Width="350">
+    <br><li>Study Of Western Historical Materials</li>
+    <br><img src="FCP.jpg" width="350">
+    <br><li>Fundamental Computer Programming</li>
+    <br><img src="MWH.jpg" width="350">
+    <br><li>History Of Modern West</li>
+    <br><img src="ITI.jpg" width="350">
+    <br><li>Introduction To IT</li>
+    <br><img src="IS.jpg" width="350">
+    <br><li>Image Semiotics</li>
+    <br><img src="DH.jpg" width="350">
+    <br><li>Digital Humanities</li>
+    </ol>
+    <ul>
+        <h2><a href="3.ESLife">Extra Study life</a></h2>
+    </ul>
+</body>
+</html>
